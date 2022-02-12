@@ -1,5 +1,5 @@
 const express = require("express")
-const app = express()
+
 const hbs = require("hbs")
 const port = 3500
 const path = require("path")
